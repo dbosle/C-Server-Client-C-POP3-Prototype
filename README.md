@@ -1,5 +1,7 @@
 # C SMS Server-Client (C POP3 Prototype)
 
+[Project Details](https://github.com/dbosle/C-Server-Client-C-POP3-Prototype/blob/main/CMPE431_SMS_server_project_details.pdf)
+
 ## Compiling server.c and client.c
 ```
 gcc server.c -lpthread -I. libiniparser.a -o server
