@@ -41,12 +41,16 @@ Passwd=1234
 ## Run
 * Server:
 ```
-./server
+# ls
+# server  server.ini
+# ./server
 ```
 
 * Client:
 ```
-./server
+# ls
+# client client.ini
+# ./client
 ```
 
 
